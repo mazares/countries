@@ -1,0 +1,27 @@
+.search-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-self: flex-end;
+    margin: 20px 0;
+}
+
+.input {
+    width: 15rem;
+    padding: 5px;
+    border-radius: 15px;
+    border: 1px solid #ddd;
+    outline: none;
+    padding: 0.5rem;
+}
+
+.button {
+    padding: 5px;
+    border-radius: 15px;
+    border: 1px solid #ddd;
+    background: #333;
+    color: #ddd;
+    cursor: pointer;
+    outline: none;
+    margin-left: 5px;
+}
